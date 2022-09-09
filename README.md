@@ -33,7 +33,7 @@ The papers mentions 2 main challenges with this open-world setup that OpenCon ad
     1. Use equation 6 in paper
 
 # Task List
-- [ ] Randomly select train/validation superclasses/classes with CIFAR100 images
+- [x] Randomly select train/val/test superclasses/classes with CIFAR100 images
 - [ ] Build ResNet50 architecure as backbone model
 - [ ] Train SimCLR model with ResNet50 backbone model
 - [ ] Evaluate SimCLR model
